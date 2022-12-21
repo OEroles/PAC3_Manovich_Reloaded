@@ -8,14 +8,14 @@ La combinació **{La hibridació}** de diferents mitjans de creació, o producci
 
  A continuació presento dos casos per redescobrir la hibridació a l'àmbit dels documentals: **Documentals Transmèdia**
 
-#### Serie documental de La 2 RTVE: ["Enginyeria romana"](https://www.rtve.es/play/videos/ingenieria-romana/ target='new')
+#### Serie documental de La 2 RTVE: ["Enginyeria romana"](https://www.rtve.es/play/videos/ingenieria-romana/)
 de l'any 2015 
 
 ![Enginyeria Romana VR][img1]
 
 [img1]: /images/inRomana1.png "Enginyeria Romana presentació"
 
-#### Documental: [“Tràfic de persones amb finalitats d'explotació sexual a l'Argentina”](http://www.documedia.com.ar/mujeres/ target='new')
+#### Documental: [“Tràfic de persones amb finalitats d'explotació sexual a l'Argentina”](http://www.documedia.com.ar/mujeres/)
 de l'any 2015 
 
 ![Mujeres en Venta][img2] 
