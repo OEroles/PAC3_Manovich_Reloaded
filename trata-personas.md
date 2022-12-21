@@ -24,14 +24,14 @@ Webdoc interactiu: Cinc capítols (Captació, Rutes del tràfic, Explotació, Re
 **Coordinació de Continguts i Gestió de Xarxes i Mitjans Socials:** Anahí Lovato<br>
 **Realització Audiovisual:** Martín Pérez i Andrés Aseguinolaza<br>
 **Producció Periodística:** Patricio Irisarri, Matías Loja, Marcelo Colman i Tomás Labrador<br>
-**Disseny Visual i Il·lustració:** Joaquín Paronzini
+**Disseny Visual i Il·lustració:** Joaquín Paronzini<br>
 **Programació, Disseny Web, Fotografia i Realitat Augmentada:** ldo Iñiguez i Marcos Riganti<br>
 
 ![Mujeres en Venta][img1]
 
 ![Mujeres en Venta][img2]
 
-**Mostra navegació webdoc:** Captura video documental "Tràfic de persones amb finalitats d'explotació sexual a l'Argentina"
+### **Mostra navegació webdoc:** Captura video documental "Tràfic de persones amb finalitats d'explotació sexual a l'Argentina"
 [![Alt text](/images/mujeres1.png )](https://www.youtube.com/watch?v=hmQXNEZMjrU)
 
 [img1]: /images/mujeres1.png "Mujeres en Venta"
